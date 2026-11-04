@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.damianverde.es/en"><img alt="Website" src="https://img.shields.io/badge/damianverde.es-059669?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/damianverdevillena/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/damianverdev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:info@damianverde.es"><img alt="Email" src="https://img.shields.io/badge/info%40damianverde.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.cursorspain.com/malaga"><img alt="Build Ambassador" src="https://img.shields.io/badge/Build%20Ambassador-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0yNCAyMCAxMDk5IDEwOTkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zNTIgNTIyIDU3IDMwNUgzMDhMNDkwIDQzNlE0MTcgNDc4IDM1MiA1MjJaTTc2NiA4MzEgNTQ1IDY2OFE2MTkgNjEyIDY3MCA1NzZMMTAxOCA4MzFaTTI5NCA4MzFINDBMNzAgODAzUTIwOCA2NjggNDUwLjUgNTA2LjVRNjkzIDM0NSAxMTQ1LjUgMTkwUTE1OTggMzUgMjIxNiAwUTE5OTUgMTkgMTY4NC41IDg4LjVRMTM3NCAxNTggOTg5IDMzOVE2MDQgNTIwIDI5NCA4MzFaIi8%2BPC9zdmc%2BCg%3D%3D" /></a>
 </p>
