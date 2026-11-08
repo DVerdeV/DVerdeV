@@ -59,7 +59,7 @@ const damian = {
   </tr>
 </table>
 
-Public repos from the Málaga events: [CursorWorkshop2026](https://github.com/DVerdeV/CursorWorkshop2026), a demo café app for the Cursor workshop in Málaga, and [TrafficLightsArena](https://github.com/DVerdeV/TrafficLightsArena), the starter kit for Cursor Build Night Málaga.
+Public repos from the Málaga events: [cursor-workshop-2026](https://github.com/DVerdeV/cursor-workshop-2026), a demo café app for the Cursor workshop in Málaga, and [traffic-lights-arena](https://github.com/DVerdeV/traffic-lights-arena), the starter kit for Cursor Build Night Málaga.
 
 ## Tech I work with
 
