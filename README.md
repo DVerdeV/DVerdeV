@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.damianverde.es/en">
-    <img alt="Enablement Developer @ Aaru · Lead Engineer @ Kuzzo · Software engineering student · Leading SpaceXSI for Málaga · Building Emergest · Protección Civil volunteer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=640&height=50&lines=Enablement+Developer+%40+Aaru;Lead+Engineer+%40+Kuzzo;Software+engineering+student+%40+UMA;Leading+SpaceXSI+for+M%C3%A1laga;Building+Emergest+for+civil+protection+teams;Volunteer+with+Protecci%C3%B3n+Civil+M%C3%A1laga" />
+    <img alt="Enablement Developer @ Aaru · Head of Engineering @ Kuzzo · Software engineering student · Leading SpaceXSI for Málaga · Building Emergest · Protección Civil volunteer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=640&height=50&lines=Enablement+Developer+%40+Aaru;Head+of+Engineering+%40+Kuzzo;Software+engineering+student+%40+UMA;Leading+SpaceXSI+for+M%C3%A1laga;Building+Emergest+for+civil+protection+teams;Volunteer+with+Protecci%C3%B3n+Civil+M%C3%A1laga" />
   </a>
 </p>
 
@@ -17,12 +17,12 @@
 
 ## ¡Hola! I'm Damián
 
-I work as an Enablement Developer at [Aaru](https://aaru.com/) and as Lead Engineer at [Kuzzo](https://kuzzo.io/).
+I work as an Enablement Developer at [Aaru](https://aaru.com/) and as Head of Engineering at [Kuzzo](https://kuzzo.io/).
 
 ```ts
 const damian = {
   basedIn: "Málaga, Spain 🇪🇸",
-  work: ["Enablement Developer @ Aaru", "Lead Engineer @ Kuzzo"],
+  work: ["Enablement Developer @ Aaru", "Head of Engineering @ Kuzzo"],
   studying: "Software Engineering @ University of Málaga",
   leads: "SpaceXSI for Málaga",
   roles: ["Build Ambassador", "Protección Civil Málaga volunteer"],
